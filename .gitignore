@@ -2,6 +2,7 @@
 __pycache__/
 *.py[codz]
 *$py.class
+test_pacman_env.py
 
 # C extensions
 *.so
